@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../BabyPhone-Rythm/Assets/UIPhoneManagerScript.cs">
+    <Files>
+      <File FileName="../BabyPhone-Rythm/Assets/UIManagerScript.cs" Line="10" Column="37" />
+      <File FileName="../BabyPhone-Rythm/Assets/UIPhoneManagerScript.cs" Line="96" Column="3" />
+      <File FileName="../BabyPhone-Rythm/Assets/UIManagePhoneDetailScript.cs" Line="57" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
